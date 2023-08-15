@@ -1,1 +1,50 @@
+Exercícios - Cadeias de Caracteres
 
+1. Implemente um programa que leia o nome de 5 pessoas e mostre os nomes
+armazenados. Utilize vetores.
+2. Implemente um programa que receba o nome de uma música e um caractere
+qualquer. Percorra esta cadeia que armazenou o nome da música a procura do
+caractere informado e retorne o seu índice ou a mensagem: caractere não
+encontrado.
+Exemplo:
+Entradas
+Nome da música: Como uma onda no mar
+Caractere: a
+Saídas
+Ocorrência de caractere na posição 7
+Ocorrência de caractere na posição 12
+Ocorrência de caractere na posição 18
+Entradas
+Nome da música: Amor I love you
+Caractere: c
+Saídas
+Caractere nao encontrado.
+3. Faça um programa que receba uma frase, calcule e mostre a quantidade de
+vogais da frase digitada. O programa deverá contar vogais maiúsculas e
+minúsculas.
+Exemplo:
+Entrada
+Frase: Eu moro em Apucarana.
+Saída
+Quantidade de vogais: 10.
+4. Faça um programa para criptografar uma frase dada pelo usuário (a criptografia
+troca as vogais da frase por *). Mostre a mensagem criptografada na tela.
+Exemplo:
+Frase: EU ESTOU NA ESCOLA
+Saída: ** * ST** N* *SC*L*
+
+5. Faça um programa que receba uma palavra e verifique se ela constitui um
+palíndromo, ou seja, se a palavra escrita do fim para o começo fica igual à palavra
+escrita do começo para o fim.
+Exemplos:
+ARARA
+ANA
+MIRIM
+DESAFIO.
+Faça um programa que receba o nome completo de uma pessoa e mostre os nomes
+intermediários entre o primeiro nome e o último sobrenome abreviados.
+Exemplo:
+Nome: Maria Silva Costa
+Saída: Maria S. Costa
+Nome: João Carlos Gomes Marques
+Saída: João C. G. Marques
